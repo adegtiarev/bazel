@@ -1,3 +1,21 @@
+#    ------ BEGIN LICENSE ATTRIBUTION ------
+#    
+#    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+#    
+#    Project: https://bazel.build
+#    Release: https://github.com/bazelbuild/bazel/releases/tag/6.5.0
+#    Source File: java.bzl
+#    
+#    Copyrights:
+#      copyright 2017 the bazel authors. all rights reserved
+#    
+#    Licenses:
+#      BSD 3-Clause "New" or "Revised" License
+#      SPDXId: BSD-3-Clause
+#    
+#    Auto-attribution by Threatrix, Inc.
+#    
+#    ------ END LICENSE ATTRIBUTION ------
 # Copyright 2017 The Bazel Authors. All rights reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
